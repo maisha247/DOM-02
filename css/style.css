@@ -6,3 +6,20 @@
     width: 1320px;
     margin: 0 auto;
 }
+input{
+    padding: 10px 15px;
+    border: 2px solid teal;
+    background: transparent;
+    margin-top: 100px;
+    border-radius: 10px;
+    width: 300px;
+}
+button{
+    padding: 10px 15px;
+    background: teal;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+}
